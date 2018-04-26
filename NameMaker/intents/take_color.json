@@ -12,7 +12,7 @@
         {
           "name": "color",
           "parameters": {},
-          "lifespan": 1
+          "lifespan": 5
         },
         {
           "name": "number",
@@ -30,7 +30,11 @@
           "prompts": [
             {
               "lang": "en",
-              "value": "Can you provide a real color?"
+              "value": "Sorry, i didn\u0027t understood it. Can you say it again?"
+            },
+            {
+              "lang": "en",
+              "value": "It seems like the color is new to me. Can you say it again?"
             }
           ],
           "isList": false
@@ -52,7 +56,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1524683195,
+  "lastUpdate": 1524777659,
   "fallbackIntent": false,
   "events": [
     {

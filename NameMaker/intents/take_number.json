@@ -11,7 +11,7 @@
         {
           "name": "number",
           "parameters": {},
-          "lifespan": 1
+          "lifespan": 5
         }
       ],
       "parameters": [
@@ -24,7 +24,7 @@
           "prompts": [
             {
               "lang": "en",
-              "value": "Let\u0027s start. What is your favorite number?"
+              "value": "Sure. Let\u0027s start again. What is your favorite number?"
             }
           ],
           "isList": false
@@ -34,7 +34,7 @@
         {
           "type": 0,
           "lang": "en",
-          "speech": "Nice. And your favorite color?"
+          "speech": "Super. And your favorite color?"
         }
       ],
       "defaultResponsePlatforms": {
@@ -46,7 +46,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1524683879,
+  "lastUpdate": 1524777644,
   "fallbackIntent": false,
   "events": [
     {

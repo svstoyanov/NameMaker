@@ -41,7 +41,7 @@
         {
           "type": 0,
           "lang": "en",
-          "speech": "See you soon #color.color #take_animal-followup.animal #number.number!"
+          "speech": "I hope i see you soon #color.color #take_animal-followup.animal #number.number!"
         }
       ],
       "defaultResponsePlatforms": {},
@@ -51,7 +51,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1524594774,
+  "lastUpdate": 1524777085,
   "fallbackIntent": false,
   "events": []
 }

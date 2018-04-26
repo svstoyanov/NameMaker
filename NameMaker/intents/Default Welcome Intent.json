@@ -13,7 +13,7 @@
         {
           "type": 0,
           "lang": "en",
-          "speech": "Hi! Welcome to Name Maker! Let\u0027s get started. \nWhat is your favorite number?"
+          "speech": "Hi! Welcome to Name Maker! My job is to make the world funniest names. Let\u0027s get started with a simple question: What is your favorite number?"
         }
       ],
       "defaultResponsePlatforms": {},
@@ -23,7 +23,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1524602343,
+  "lastUpdate": 1524777426,
   "fallbackIntent": false,
   "events": [
     {

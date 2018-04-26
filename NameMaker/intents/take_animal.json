@@ -28,7 +28,7 @@
         {
           "name": "animal",
           "parameters": {},
-          "lifespan": 2
+          "lifespan": 5
         }
       ],
       "parameters": [
@@ -41,7 +41,11 @@
           "prompts": [
             {
               "lang": "en",
-              "value": "Can you tell me your favourite animal?"
+              "value": "I think i don\u0027t know this animal will added to my training list. Can you try with another one?"
+            },
+            {
+              "lang": "en",
+              "value": "Okay, i am not sure if i understood you correct, can you say it again?"
             }
           ],
           "isList": false
@@ -79,7 +83,7 @@
         {
           "type": 0,
           "lang": "en",
-          "speech": "Haha, I\u0027ve come up with the funniest name: #color.color $animal #number.number!  Do you like your new name?"
+          "speech": "Haha. I\u0027ve come up with the funniest name which i think is very sweet: #color.color $animal #number.number!  Do you like your new code name?"
         }
       ],
       "defaultResponsePlatforms": {},
@@ -89,7 +93,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1524683209,
+  "lastUpdate": 1524777708,
   "fallbackIntent": false,
   "events": [
     {

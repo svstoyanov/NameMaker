@@ -38,7 +38,7 @@
         {
           "type": 0,
           "lang": "en",
-          "speech": "Can you give me one more chance to make you a new one?"
+          "speech": "Okay, i think that i can do better. Would you give me another try?"
         }
       ],
       "defaultResponsePlatforms": {},
@@ -48,7 +48,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1524595535,
+  "lastUpdate": 1524777116,
   "fallbackIntent": false,
   "events": []
 }

@@ -17,7 +17,7 @@
         {
           "type": 0,
           "lang": "en",
-          "speech": []
+          "speech": "Thank you for the chance. Okay lets start again. What is your favorite number?"
         }
       ],
       "defaultResponsePlatforms": {},
@@ -25,9 +25,9 @@
     }
   ],
   "priority": 500000,
-  "webhookUsed": true,
+  "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1524684101,
+  "lastUpdate": 1524777844,
   "fallbackIntent": false,
   "events": []
 }
