@@ -1,0 +1,98 @@
+[
+  {
+    "id": "0c3ef78c-92a6-4f56-8b0c-b04f033d3b71",
+    "data": [
+      {
+        "text": "don\u0027t do it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524597713
+  },
+  {
+    "id": "0ef70995-01f9-4772-a602-31cbf69df81d",
+    "data": [
+      {
+        "text": "not really",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524597713
+  },
+  {
+    "id": "30a1f112-4d86-4bae-ba50-9e60e395c6f3",
+    "data": [
+      {
+        "text": "not interested",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524597713
+  },
+  {
+    "id": "f96e896a-ab2a-4da1-be98-4ab2f46db153",
+    "data": [
+      {
+        "text": "I don\u0027t want that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524597713
+  },
+  {
+    "id": "d2327ecc-f4a5-436f-8566-16501becc962",
+    "data": [
+      {
+        "text": "no",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1524597713
+  },
+  {
+    "id": "afe691c5-288b-4707-85ac-fc0e13455fa6",
+    "data": [
+      {
+        "text": "I disagree",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1524597713
+  },
+  {
+    "id": "8ec940ab-8ce8-41ac-9431-0d8b855188b3",
+    "data": [
+      {
+        "text": "definitely not",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1524597713
+  },
+  {
+    "id": "41052499-416f-49a6-afab-b17836caa27c",
+    "data": [
+      {
+        "text": "I don\u0027t think so",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524597713
+  }
+]

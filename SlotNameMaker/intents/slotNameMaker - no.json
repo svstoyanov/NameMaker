@@ -1,0 +1,73 @@
+{
+  "id": "a0bdec79-04dc-4b78-80b6-ce2aafc262f9",
+  "parentId": "e7baf7c3-e986-415a-94a4-1596053faf23",
+  "rootParentId": "e7baf7c3-e986-415a-94a4-1596053faf23",
+  "name": "slotNameMaker - no",
+  "auto": true,
+  "contexts": [
+    "slotNameMaker-followup",
+    "color",
+    "number",
+    "animal"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "slotNameMaker.slotNameMaker-no",
+      "affectedContexts": [
+        {
+          "name": "slotNameMaker-followup",
+          "parameters": {},
+          "lifespan": 0
+        },
+        {
+          "name": "color",
+          "parameters": {},
+          "lifespan": 0
+        },
+        {
+          "name": "number",
+          "parameters": {},
+          "lifespan": 0
+        },
+        {
+          "name": "animal",
+          "parameters": {},
+          "lifespan": 0
+        }
+      ],
+      "parameters": [
+        {
+          "id": "71c1512e-2858-4310-ab15-0e5db37fb526",
+          "name": "color",
+          "value": "#color.color"
+        },
+        {
+          "id": "741deeed-1942-40e1-ab36-a88bfa482bda",
+          "name": "name",
+          "value": "#number.number"
+        },
+        {
+          "id": "ee878cdf-7cfb-4616-ab3c-2199d889aa4a",
+          "name": "animal",
+          "value": "#animal.animal"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Haha, I\u0027ve come up with the funniest name: #color.color #animal.animal #number.number!  Wanna try again?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524602375,
+  "fallbackIntent": false,
+  "events": []
+}

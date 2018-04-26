@@ -1,0 +1,57 @@
+{
+  "id": "2e94dad1-58b0-465d-9a6f-39a7aa5bee06",
+  "parentId": "1162a78c-2d1c-4b69-aa22-87a50a46bf94",
+  "rootParentId": "1162a78c-2d1c-4b69-aa22-87a50a46bf94",
+  "name": "take_animal - yes",
+  "auto": true,
+  "contexts": [
+    "number",
+    "color",
+    "take_animal-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "take_animal.take_animal-yes",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "592e917f-be7c-4b71-8cf2-250218cb0d8f",
+          "required": false,
+          "name": "number",
+          "value": "#number.number",
+          "isList": false
+        },
+        {
+          "id": "b8e7fa8a-b274-49cc-a387-0aa877036854",
+          "required": false,
+          "name": "color",
+          "value": "#color.color",
+          "isList": false
+        },
+        {
+          "id": "2a5d270a-dd17-41b7-bfff-4fd386dada2d",
+          "required": false,
+          "name": "animal",
+          "value": "#take_animal-followup.animal",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "See you soon #color.color #take_animal-followup.animal #number.number!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524594774,
+  "fallbackIntent": false,
+  "events": []
+}

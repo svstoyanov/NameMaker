@@ -1,0 +1,92 @@
+{
+  "id": "e7baf7c3-e986-415a-94a4-1596053faf23",
+  "name": "slotNameMaker",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "number",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "color",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "animal",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "slotNameMaker-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "743d7138-73de-43b5-a1d2-bcb5dda3d944",
+          "required": true,
+          "dataType": "@sys.color",
+          "name": "color",
+          "value": "$color",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is your favourite color"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "48a9f199-9c0b-4712-8272-17502151ecf0",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Nice. Can you tell me your favorite number?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "0993f30d-5a13-46d0-a0e9-5d32610413bd",
+          "required": true,
+          "dataType": "@Animals",
+          "name": "animal",
+          "value": "$animal",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "I have last question. What is your favorite animal?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Your funny name is $color $number $animal. Do you want to try again?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524602253,
+  "fallbackIntent": false,
+  "events": []
+}

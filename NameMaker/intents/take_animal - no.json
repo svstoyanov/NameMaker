@@ -1,0 +1,54 @@
+{
+  "id": "e2ce5e1d-8bd5-47fd-9e07-47194d3daba2",
+  "parentId": "1162a78c-2d1c-4b69-aa22-87a50a46bf94",
+  "rootParentId": "1162a78c-2d1c-4b69-aa22-87a50a46bf94",
+  "name": "take_animal - no",
+  "auto": true,
+  "contexts": [
+    "take_animal-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "take_animal.take_animal-no",
+      "affectedContexts": [
+        {
+          "name": "take_animal-no-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "color",
+          "parameters": {},
+          "lifespan": 0
+        },
+        {
+          "name": "number",
+          "parameters": {},
+          "lifespan": 0
+        },
+        {
+          "name": "animal",
+          "parameters": {},
+          "lifespan": 0
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Can you give me one more chance to make you a new one?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524595535,
+  "fallbackIntent": false,
+  "events": []
+}

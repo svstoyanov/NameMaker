@@ -1,0 +1,99 @@
+{
+  "id": "1162a78c-2d1c-4b69-aa22-87a50a46bf94",
+  "name": "take_animal",
+  "auto": true,
+  "contexts": [
+    "number",
+    "color"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "number",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "color",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "take_animal-followup",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "animal",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "1e875e66-2e90-4604-a2a1-2aafbb62f6dd",
+          "required": true,
+          "dataType": "@Animals",
+          "name": "animal",
+          "value": "$animal",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Can you tell me your favourite animal?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "3762fd63-9385-486e-a59d-52ccd700744d",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "#number.number",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is your favorite number?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "e3d6d867-a0cd-43e6-877f-ab4b85ba7c77",
+          "required": false,
+          "dataType": "@sys.color",
+          "name": "color",
+          "value": "#color.color",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is your favorite color?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Haha, I\u0027ve come up with the funniest name: #color.color $animal #number.number!  Do you like your new name?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524683209,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "take-animal-event"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "a76cde58-a6d4-43ca-8460-5535a002064d",
+  "name": "take_color",
+  "auto": true,
+  "contexts": [
+    "number"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "color",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "number",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "81eddd3e-2c10-42f0-9417-dbf5b0e2cb53",
+          "required": true,
+          "dataType": "@sys.color",
+          "name": "color",
+          "value": "$color",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Can you provide a real color?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Nice. i also like $color. Last question: What is your favourite animal?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524683195,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "take-color-event"
+    }
+  ]
+}

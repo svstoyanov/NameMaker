@@ -1,0 +1,39 @@
+{
+  "id": "bed5e78e-be55-448b-8cf3-39fd01ef1cb0",
+  "parentId": "e7baf7c3-e986-415a-94a4-1596053faf23",
+  "rootParentId": "e7baf7c3-e986-415a-94a4-1596053faf23",
+  "name": "slotNameMaker - yes",
+  "auto": true,
+  "contexts": [
+    "slotNameMaker-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "slotNameMaker.slotNameMaker-yes",
+      "affectedContexts": [
+        {
+          "name": "slotNameMaker-followup",
+          "parameters": {},
+          "lifespan": 0
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I was hoping so. Okay, let\u0027s start again by telling me which new number you like?."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524602199,
+  "fallbackIntent": false,
+  "events": []
+}

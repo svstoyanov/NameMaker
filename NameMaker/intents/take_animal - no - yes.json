@@ -1,0 +1,33 @@
+{
+  "id": "cafbe729-e392-44d5-8767-63864e8c80b0",
+  "parentId": "e2ce5e1d-8bd5-47fd-9e07-47194d3daba2",
+  "rootParentId": "1162a78c-2d1c-4b69-aa22-87a50a46bf94",
+  "name": "take_animal - no - yes",
+  "auto": true,
+  "contexts": [
+    "take_animal-no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "take_animal-no-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524684101,
+  "fallbackIntent": false,
+  "events": []
+}

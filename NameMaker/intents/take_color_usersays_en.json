@@ -1,0 +1,80 @@
+[
+  {
+    "id": "c430d559-8fbb-4989-88f8-b5f76ea60908",
+    "data": [
+      {
+        "text": "i think that it is ",
+        "userDefined": false
+      },
+      {
+        "text": "green",
+        "alias": "color",
+        "meta": "@sys.color",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524595295
+  },
+  {
+    "id": "7dd30072-d829-460e-8cd9-4ed10c711195",
+    "data": [
+      {
+        "text": "i like ",
+        "userDefined": false
+      },
+      {
+        "text": "yellow",
+        "alias": "color",
+        "meta": "@sys.color",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524595295
+  },
+  {
+    "id": "3794362a-b0c9-4f9a-b12b-3db7dba430be",
+    "data": [
+      {
+        "text": "yellow",
+        "alias": "color",
+        "meta": "@sys.color",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524595295
+  },
+  {
+    "id": "cfde626e-3f7e-4433-94ca-bbfd2aa1c435",
+    "data": [
+      {
+        "text": "blue",
+        "alias": "color",
+        "meta": "@sys.color",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524595295
+  },
+  {
+    "id": "0282ff38-4802-467b-b080-f123ec311d4d",
+    "data": [
+      {
+        "text": "magenta",
+        "alias": "color",
+        "meta": "@sys.color",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524595295
+  }
+]

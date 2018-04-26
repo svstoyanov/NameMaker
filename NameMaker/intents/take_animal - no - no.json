@@ -1,0 +1,33 @@
+{
+  "id": "4084c200-9d5f-4caa-b2e7-6a7e1f118d01",
+  "parentId": "e2ce5e1d-8bd5-47fd-9e07-47194d3daba2",
+  "rootParentId": "1162a78c-2d1c-4b69-aa22-87a50a46bf94",
+  "name": "take_animal - no - no",
+  "auto": true,
+  "contexts": [
+    "take_animal-no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "take_animal.take_animal-no.take_animal-no-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Sad to hear it. Hope we are still friends! Have a nice day"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524564652,
+  "fallbackIntent": false,
+  "events": []
+}

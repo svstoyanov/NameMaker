@@ -1,0 +1,164 @@
+[
+  {
+    "id": "f9227112-199d-4038-93c2-f11e25256db5",
+    "data": [
+      {
+        "text": "34242",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524598198
+  },
+  {
+    "id": "5c010bd4-9214-4d4c-ab76-ecb9a02e0b0e",
+    "data": [
+      {
+        "text": "32",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524598198
+  },
+  {
+    "id": "949c9b64-8169-4bf2-905a-1894b9819f6d",
+    "data": [
+      {
+        "text": "2314",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524598198
+  },
+  {
+    "id": "c1822b75-86c3-4f39-96ac-fc66c7e6b53a",
+    "data": [
+      {
+        "text": "my favorite number is ",
+        "userDefined": false
+      },
+      {
+        "text": "23",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524598198
+  },
+  {
+    "id": "5dba70fd-a1f4-4ee6-9eaa-c78221a55816",
+    "data": [
+      {
+        "text": "42421",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524598198
+  },
+  {
+    "id": "d7e685e2-82ea-4231-85ae-beb0137d03ab",
+    "data": [
+      {
+        "text": "12",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1524598198
+  },
+  {
+    "id": "33f49514-62a2-402d-909b-cf677bc5273f",
+    "data": [
+      {
+        "text": "4512",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1524598198
+  },
+  {
+    "id": "e6bc6bc9-e563-4dbb-93a7-a7643130a6a4",
+    "data": [
+      {
+        "text": "23",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "updated": 1524598198
+  },
+  {
+    "id": "64f2b017-19c0-47f2-a69c-40e1cfead3d0",
+    "data": [
+      {
+        "text": "I like ",
+        "userDefined": false
+      },
+      {
+        "text": "55",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524598198
+  },
+  {
+    "id": "1702a570-a1b6-4dd2-81ec-cb613bcb4040",
+    "data": [
+      {
+        "text": "34",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524598198
+  },
+  {
+    "id": "e13fc35c-00c0-4b1c-b5ab-5c6dd177cb00",
+    "data": [
+      {
+        "text": "544",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524598198
+  }
+]

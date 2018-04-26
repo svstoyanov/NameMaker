@@ -1,0 +1,78 @@
+[
+  {
+    "id": "efd7fd07-4895-4b70-b81c-24c1a06a075d",
+    "data": [
+      {
+        "text": "23",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524597398
+  },
+  {
+    "id": "3f6a47e6-d61a-4bb0-bb12-646233bfdc03",
+    "data": [
+      {
+        "text": "black",
+        "alias": "color",
+        "meta": "@sys.color",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "23",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "panther",
+        "alias": "animal",
+        "meta": "@Animals",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524597398
+  },
+  {
+    "id": "18c2cc48-2a4c-41e9-9c6e-c04a89801f64",
+    "data": [
+      {
+        "text": "dino",
+        "alias": "animal",
+        "meta": "@Animals",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524597398
+  },
+  {
+    "id": "e807c273-5db7-4a13-98ec-dd19cf073650",
+    "data": [
+      {
+        "text": "blue",
+        "alias": "color",
+        "meta": "@sys.color",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524597398
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "f09c9008-584c-4092-8eda-5886b5f9d6e3",
+    "data": [
+      {
+        "text": "I like ",
+        "userDefined": false
+      },
+      {
+        "text": "puppies",
+        "alias": "animal",
+        "meta": "@Animals",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524599697
+  },
+  {
+    "id": "ed09829c-28d7-4049-8fc1-b34a657481f6",
+    "data": [
+      {
+        "text": "ant",
+        "alias": "animal",
+        "meta": "@Animals",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524599697
+  },
+  {
+    "id": "e918565a-b151-4dae-b490-38e1952361ba",
+    "data": [
+      {
+        "text": "dinosaur",
+        "alias": "animal",
+        "meta": "@Animals",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524599697
+  },
+  {
+    "id": "570e386c-71e2-49e5-85d6-8feb65745cb3",
+    "data": [
+      {
+        "text": "panther",
+        "alias": "animal",
+        "meta": "@Animals",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524599697
+  },
+  {
+    "id": "9594f62c-1bb9-41bf-a0e1-14d04ff873f7",
+    "data": [
+      {
+        "text": "I love ",
+        "userDefined": false
+      },
+      {
+        "text": "cats",
+        "alias": "animal",
+        "meta": "@Animals",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524599697
+  },
+  {
+    "id": "48ba9ac6-fa72-450a-b4cc-c7ecd28bb55f",
+    "data": [
+      {
+        "text": "dog",
+        "alias": "animal",
+        "meta": "@Animals",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524599697
+  },
+  {
+    "id": "c3379b08-ac45-485d-be10-9110c3a287cc",
+    "data": [
+      {
+        "text": "My favorite animal is a ",
+        "userDefined": false
+      },
+      {
+        "text": "dinosaur",
+        "alias": "animal",
+        "meta": "@Animals",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524599697
+  }
+]

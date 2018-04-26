@@ -1,0 +1,56 @@
+{
+  "id": "a934d1e8-f8a1-4921-900e-9ae9ab0eaac6",
+  "name": "take_number",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "number",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "b65c6b7a-bb59-45c4-818a-68ffee5b418f",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Let\u0027s start. What is your favorite number?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Nice. And your favorite color?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524683879,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "take-number-event"
+    }
+  ]
+}

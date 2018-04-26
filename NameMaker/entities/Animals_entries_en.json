@@ -1,0 +1,3117 @@
+[
+  {
+    "value": "Cattle",
+    "synonyms": [
+      "Cattle"
+    ]
+  },
+  {
+    "value": "Rabbit",
+    "synonyms": [
+      "Rabbit"
+    ]
+  },
+  {
+    "value": "Alligator",
+    "synonyms": [
+      "Alligator"
+    ]
+  },
+  {
+    "value": "Alpaca",
+    "synonyms": [
+      "Alpaca"
+    ]
+  },
+  {
+    "value": "Felidae",
+    "synonyms": [
+      "Felidae"
+    ]
+  },
+  {
+    "value": "African leopard",
+    "synonyms": [
+      "African leopard"
+    ]
+  },
+  {
+    "value": "Ant",
+    "synonyms": [
+      "Ant"
+    ]
+  },
+  {
+    "value": "Arctic Fox",
+    "synonyms": [
+      "Arctic Fox"
+    ]
+  },
+  {
+    "value": "Asp",
+    "synonyms": [
+      "Asp"
+    ]
+  },
+  {
+    "value": "Beetle",
+    "synonyms": [
+      "Beetle"
+    ]
+  },
+  {
+    "value": "list",
+    "synonyms": [
+      "list"
+    ]
+  },
+  {
+    "value": "Bald eagle",
+    "synonyms": [
+      "Bald eagle"
+    ]
+  },
+  {
+    "value": "Bee",
+    "synonyms": [
+      "Bee"
+    ]
+  },
+  {
+    "value": "Canidae",
+    "synonyms": [
+      "Canidae"
+    ]
+  },
+  {
+    "value": "Cat",
+    "synonyms": [
+      "Cat"
+    ]
+  },
+  {
+    "value": "Pig",
+    "synonyms": [
+      "Pig"
+    ]
+  },
+  {
+    "value": "Guinea pig",
+    "synonyms": [
+      "Guinea pig"
+    ]
+  },
+  {
+    "value": "Goat",
+    "synonyms": [
+      "Goat"
+    ]
+  },
+  {
+    "value": "Antlion",
+    "synonyms": [
+      "Antlion"
+    ]
+  },
+  {
+    "value": "Donkey",
+    "synonyms": [
+      "Donkey"
+    ]
+  },
+  {
+    "value": "Badger",
+    "synonyms": [
+      "Badger"
+    ]
+  },
+  {
+    "value": "Basilisk",
+    "synonyms": [
+      "Basilisk"
+    ]
+  },
+  {
+    "value": "Beaked whale",
+    "synonyms": [
+      "Beaked whale"
+    ]
+  },
+  {
+    "value": "Bedbug",
+    "synonyms": [
+      "Bedbug"
+    ]
+  },
+  {
+    "value": "Amphibian",
+    "synonyms": [
+      "Amphibian"
+    ]
+  },
+  {
+    "value": "Arrow crab",
+    "synonyms": [
+      "Arrow crab"
+    ]
+  },
+  {
+    "value": "Bat",
+    "synonyms": [
+      "Bat"
+    ]
+  },
+  {
+    "value": "African buffalo",
+    "synonyms": [
+      "African buffalo"
+    ]
+  },
+  {
+    "value": "Anglerfish",
+    "synonyms": [
+      "Anglerfish"
+    ]
+  },
+  {
+    "value": "Anteater",
+    "synonyms": [
+      "Anteater"
+    ]
+  },
+  {
+    "value": "Bandicoot",
+    "synonyms": [
+      "Bandicoot"
+    ]
+  },
+  {
+    "value": "Horse",
+    "synonyms": [
+      "Horse"
+    ]
+  },
+  {
+    "value": "Duck breeds",
+    "synonyms": [
+      "Duck breeds"
+    ]
+  },
+  {
+    "value": "Aardvark",
+    "synonyms": [
+      "Aardvark"
+    ]
+  },
+  {
+    "value": "Aardwolf",
+    "synonyms": [
+      "Aardwolf"
+    ]
+  },
+  {
+    "value": "American robin",
+    "synonyms": [
+      "American robin"
+    ]
+  },
+  {
+    "value": "Arctic Wolf",
+    "synonyms": [
+      "Arctic Wolf"
+    ]
+  },
+  {
+    "value": "Barnacle",
+    "synonyms": [
+      "Barnacle"
+    ]
+  },
+  {
+    "value": "Chicken breeds",
+    "synonyms": [
+      "Chicken breeds"
+    ]
+  },
+  {
+    "value": "Goose breeds",
+    "synonyms": [
+      "Goose breeds"
+    ]
+  },
+  {
+    "value": "Baboon",
+    "synonyms": [
+      "Baboon"
+    ]
+  },
+  {
+    "value": "Turkey breeds",
+    "synonyms": [
+      "Turkey breeds"
+    ]
+  },
+  {
+    "value": "Bear",
+    "synonyms": [
+      "Bear"
+    ]
+  },
+  {
+    "value": "list",
+    "synonyms": [
+      "list"
+    ]
+  },
+  {
+    "value": "Pigeon breeds",
+    "synonyms": [
+      "Pigeon breeds"
+    ]
+  },
+  {
+    "value": "African elephant",
+    "synonyms": [
+      "African elephant"
+    ]
+  },
+  {
+    "value": "Albatross",
+    "synonyms": [
+      "Albatross"
+    ]
+  },
+  {
+    "value": "Donkey",
+    "synonyms": [
+      "Donkey"
+    ]
+  },
+  {
+    "value": "Angelfish",
+    "synonyms": [
+      "Angelfish"
+    ]
+  },
+  {
+    "value": "Armadillo",
+    "synonyms": [
+      "Armadillo"
+    ]
+  },
+  {
+    "value": "Beaver",
+    "synonyms": [
+      "Beaver"
+    ]
+  },
+  {
+    "value": "Dog",
+    "synonyms": [
+      "Dog",
+      "Puppy"
+    ]
+  },
+  {
+    "value": "Anaconda",
+    "synonyms": [
+      "Anaconda"
+    ]
+  },
+  {
+    "value": "Water buffalo breeds",
+    "synonyms": [
+      "Water buffalo breeds"
+    ]
+  },
+  {
+    "value": "Bass",
+    "synonyms": [
+      "Bass"
+    ]
+  },
+  {
+    "value": "Ape",
+    "synonyms": [
+      "Ape"
+    ]
+  },
+  {
+    "value": "Antelope",
+    "synonyms": [
+      "Antelope"
+    ]
+  },
+  {
+    "value": "Aphid",
+    "synonyms": [
+      "Aphid"
+    ]
+  },
+  {
+    "value": "Barracuda",
+    "synonyms": [
+      "Barracuda"
+    ]
+  },
+  {
+    "value": "Fancy rat varieties",
+    "synonyms": [
+      "Fancy rat varieties"
+    ]
+  },
+  {
+    "value": "laboratory rat strains",
+    "synonyms": [
+      "laboratory rat strains"
+    ]
+  },
+  {
+    "value": "Sheep breeds",
+    "synonyms": [
+      "Sheep breeds"
+    ]
+  },
+  {
+    "value": "American buffalo",
+    "synonyms": [
+      "American buffalo"
+    ]
+  },
+  {
+    "value": "Arabian leopard",
+    "synonyms": [
+      "Arabian leopard"
+    ]
+  },
+  {
+    "value": "list",
+    "synonyms": [
+      "list"
+    ]
+  },
+  {
+    "value": "Black widow spider",
+    "synonyms": [
+      "Black widow spider"
+    ]
+  },
+  {
+    "value": "Caribou",
+    "synonyms": [
+      "Caribou"
+    ]
+  },
+  {
+    "value": "Blue bird",
+    "synonyms": [
+      "Blue bird"
+    ]
+  },
+  {
+    "value": "Boa",
+    "synonyms": [
+      "Boa"
+    ]
+  },
+  {
+    "value": "Caterpillar",
+    "synonyms": [
+      "Caterpillar"
+    ]
+  },
+  {
+    "value": "Catfish",
+    "synonyms": [
+      "Catfish"
+    ]
+  },
+  {
+    "value": "Crocodile",
+    "synonyms": [
+      "Crocodile"
+    ]
+  },
+  {
+    "value": "list",
+    "synonyms": [
+      "list"
+    ]
+  },
+  {
+    "value": "Dragonfly",
+    "synonyms": [
+      "Dragonfly"
+    ]
+  },
+  {
+    "value": "list",
+    "synonyms": [
+      "list"
+    ]
+  },
+  {
+    "value": "Elk",
+    "synonyms": [
+      "Elk"
+    ]
+  },
+  {
+    "value": "English pointer",
+    "synonyms": [
+      "English pointer"
+    ]
+  },
+  {
+    "value": "Falcon",
+    "synonyms": [
+      "Falcon"
+    ]
+  },
+  {
+    "value": "Flea",
+    "synonyms": [
+      "Flea"
+    ]
+  },
+  {
+    "value": "Guppy",
+    "synonyms": [
+      "Guppy"
+    ]
+  },
+  {
+    "value": "Halibut",
+    "synonyms": [
+      "Halibut"
+    ]
+  },
+  {
+    "value": "Hare",
+    "synonyms": [
+      "Hare"
+    ]
+  },
+  {
+    "value": "Hermit crab",
+    "synonyms": [
+      "Hermit crab"
+    ]
+  },
+  {
+    "value": "Hornet",
+    "synonyms": [
+      "Hornet"
+    ]
+  },
+  {
+    "value": "Kangaroo rat",
+    "synonyms": [
+      "Kangaroo rat"
+    ]
+  },
+  {
+    "value": "Ladybug",
+    "synonyms": [
+      "Ladybug"
+    ]
+  },
+  {
+    "value": "Blue whale",
+    "synonyms": [
+      "Blue whale"
+    ]
+  },
+  {
+    "value": "Cape buffalo",
+    "synonyms": [
+      "Cape buffalo"
+    ]
+  },
+  {
+    "value": "Lark",
+    "synonyms": [
+      "Lark"
+    ]
+  },
+  {
+    "value": "Marlin",
+    "synonyms": [
+      "Marlin"
+    ]
+  },
+  {
+    "value": "Chickadee",
+    "synonyms": [
+      "Chickadee"
+    ]
+  },
+  {
+    "value": "Chipmunk",
+    "synonyms": [
+      "Chipmunk"
+    ]
+  },
+  {
+    "value": "Meerkat",
+    "synonyms": [
+      "Meerkat"
+    ]
+  },
+  {
+    "value": "Mite",
+    "synonyms": [
+      "Mite"
+    ]
+  },
+  {
+    "value": "Mosquito",
+    "synonyms": [
+      "Mosquito"
+    ]
+  },
+  {
+    "value": "Mule",
+    "synonyms": [
+      "Mule"
+    ]
+  },
+  {
+    "value": "Clownfish",
+    "synonyms": [
+      "Clownfish"
+    ]
+  },
+  {
+    "value": "Dolphin",
+    "synonyms": [
+      "Dolphin"
+    ]
+  },
+  {
+    "value": "Narwhal",
+    "synonyms": [
+      "Narwhal"
+    ]
+  },
+  {
+    "value": "Donkey",
+    "synonyms": [
+      "Donkey"
+    ]
+  },
+  {
+    "value": "Earwig",
+    "synonyms": [
+      "Earwig"
+    ]
+  },
+  {
+    "value": "Echidna",
+    "synonyms": [
+      "Echidna"
+    ]
+  },
+  {
+    "value": "Egret",
+    "synonyms": [
+      "Egret"
+    ]
+  },
+  {
+    "value": "Fish",
+    "synonyms": [
+      "Fish"
+    ]
+  },
+  {
+    "value": "Goat",
+    "synonyms": [
+      "Goat"
+    ]
+  },
+  {
+    "value": "Lamprey",
+    "synonyms": [
+      "Lamprey"
+    ]
+  },
+  {
+    "value": "Macaw",
+    "synonyms": [
+      "Macaw"
+    ]
+  },
+  {
+    "value": "Marten",
+    "synonyms": [
+      "Marten"
+    ]
+  },
+  {
+    "value": "Camel",
+    "synonyms": [
+      "Camel"
+    ]
+  },
+  {
+    "value": "Canid",
+    "synonyms": [
+      "Canid"
+    ]
+  },
+  {
+    "value": "Carp",
+    "synonyms": [
+      "Carp"
+    ]
+  },
+  {
+    "value": "Cod",
+    "synonyms": [
+      "Cod"
+    ]
+  },
+  {
+    "value": "Constrictor",
+    "synonyms": [
+      "Constrictor"
+    ]
+  },
+  {
+    "value": "Cuckoo",
+    "synonyms": [
+      "Cuckoo"
+    ]
+  },
+  {
+    "value": "Dog",
+    "synonyms": [
+      "Dog"
+    ]
+  },
+  {
+    "value": "list",
+    "synonyms": [
+      "list"
+    ]
+  },
+  {
+    "value": "Fly",
+    "synonyms": [
+      "Fly"
+    ]
+  },
+  {
+    "value": "Fowl",
+    "synonyms": [
+      "Fowl"
+    ]
+  },
+  {
+    "value": "Gazelle",
+    "synonyms": [
+      "Gazelle"
+    ]
+  },
+  {
+    "value": "Gecko",
+    "synonyms": [
+      "Gecko"
+    ]
+  },
+  {
+    "value": "Gerbil",
+    "synonyms": [
+      "Gerbil"
+    ]
+  },
+  {
+    "value": "list",
+    "synonyms": [
+      "list"
+    ]
+  },
+  {
+    "value": "Gull",
+    "synonyms": [
+      "Gull"
+    ]
+  },
+  {
+    "value": "Llama",
+    "synonyms": [
+      "Llama"
+    ]
+  },
+  {
+    "value": "Manatee",
+    "synonyms": [
+      "Manatee"
+    ]
+  },
+  {
+    "value": "Mockingbird",
+    "synonyms": [
+      "Mockingbird"
+    ]
+  },
+  {
+    "value": "Old World quail",
+    "synonyms": [
+      "Old World quail"
+    ]
+  },
+  {
+    "value": "Blackbird",
+    "synonyms": [
+      "Blackbird"
+    ]
+  },
+  {
+    "value": "Bobcat",
+    "synonyms": [
+      "Bobcat"
+    ]
+  },
+  {
+    "value": "Crow",
+    "synonyms": [
+      "Crow"
+    ]
+  },
+  {
+    "value": "Deer",
+    "synonyms": [
+      "Deer"
+    ]
+  },
+  {
+    "value": "Dove",
+    "synonyms": [
+      "Dove"
+    ]
+  },
+  {
+    "value": "Giant squid",
+    "synonyms": [
+      "Giant squid"
+    ]
+  },
+  {
+    "value": "Gila monster",
+    "synonyms": [
+      "Gila monster"
+    ]
+  },
+  {
+    "value": "Great blue heron",
+    "synonyms": [
+      "Great blue heron"
+    ]
+  },
+  {
+    "value": "Guanaco",
+    "synonyms": [
+      "Guanaco"
+    ]
+  },
+  {
+    "value": "Guineafowl",
+    "synonyms": [
+      "Guineafowl"
+    ]
+  },
+  {
+    "value": "Heron",
+    "synonyms": [
+      "Heron"
+    ]
+  },
+  {
+    "value": "Horse",
+    "synonyms": [
+      "Horse"
+    ]
+  },
+  {
+    "value": "Iguana",
+    "synonyms": [
+      "Iguana"
+    ]
+  },
+  {
+    "value": "Limpet",
+    "synonyms": [
+      "Limpet"
+    ]
+  },
+  {
+    "value": "Locust",
+    "synonyms": [
+      "Locust"
+    ]
+  },
+  {
+    "value": "Mandrill",
+    "synonyms": [
+      "Mandrill"
+    ]
+  },
+  {
+    "value": "Box jellyfish",
+    "synonyms": [
+      "Box jellyfish"
+    ]
+  },
+  {
+    "value": "Black panther",
+    "synonyms": [
+      "Black panther"
+    ]
+  },
+  {
+    "value": "Boar",
+    "synonyms": [
+      "Boar"
+    ]
+  },
+  {
+    "value": "list",
+    "synonyms": [
+      "list"
+    ]
+  },
+  {
+    "value": "Cheetah",
+    "synonyms": [
+      "Cheetah"
+    ]
+  },
+  {
+    "value": "list",
+    "synonyms": [
+      "list"
+    ]
+  },
+  {
+    "value": "Cougar",
+    "synonyms": [
+      "Cougar"
+    ]
+  },
+  {
+    "value": "Eel",
+    "synonyms": [
+      "Eel"
+    ]
+  },
+  {
+    "value": "Firefly",
+    "synonyms": [
+      "Firefly"
+    ]
+  },
+  {
+    "value": "Giant panda",
+    "synonyms": [
+      "Giant panda"
+    ]
+  },
+  {
+    "value": "Grizzly bear",
+    "synonyms": [
+      "Grizzly bear"
+    ]
+  },
+  {
+    "value": "Haddock",
+    "synonyms": [
+      "Haddock"
+    ]
+  },
+  {
+    "value": "Jellyfish",
+    "synonyms": [
+      "Jellyfish"
+    ]
+  },
+  {
+    "value": "Lemming",
+    "synonyms": [
+      "Lemming"
+    ]
+  },
+  {
+    "value": "Leopard",
+    "synonyms": [
+      "Leopard"
+    ]
+  },
+  {
+    "value": "Lizard",
+    "synonyms": [
+      "Lizard"
+    ]
+  },
+  {
+    "value": "Mackerel",
+    "synonyms": [
+      "Mackerel"
+    ]
+  },
+  {
+    "value": "Mink",
+    "synonyms": [
+      "Mink"
+    ]
+  },
+  {
+    "value": "Monitor lizard",
+    "synonyms": [
+      "Monitor lizard"
+    ]
+  },
+  {
+    "value": "Moth",
+    "synonyms": [
+      "Moth"
+    ]
+  },
+  {
+    "value": "Mouse",
+    "synonyms": [
+      "Mouse"
+    ]
+  },
+  {
+    "value": "Octopus",
+    "synonyms": [
+      "Octopus"
+    ]
+  },
+  {
+    "value": "Bovid",
+    "synonyms": [
+      "Bovid"
+    ]
+  },
+  {
+    "value": "Bug",
+    "synonyms": [
+      "Bug"
+    ]
+  },
+  {
+    "value": "Cephalopod",
+    "synonyms": [
+      "Cephalopod"
+    ]
+  },
+  {
+    "value": "Chimpanzee",
+    "synonyms": [
+      "Chimpanzee"
+    ]
+  },
+  {
+    "value": "Clam",
+    "synonyms": [
+      "Clam"
+    ]
+  },
+  {
+    "value": "Cockroach",
+    "synonyms": [
+      "Cockroach"
+    ]
+  },
+  {
+    "value": "Dragon",
+    "synonyms": [
+      "Dragon"
+    ]
+  },
+  {
+    "value": "Elephant seal",
+    "synonyms": [
+      "Elephant seal"
+    ]
+  },
+  {
+    "value": "Ferret",
+    "synonyms": [
+      "Ferret"
+    ]
+  },
+  {
+    "value": "Frog",
+    "synonyms": [
+      "Frog"
+    ]
+  },
+  {
+    "value": "list",
+    "synonyms": [
+      "list"
+    ]
+  },
+  {
+    "value": "Gibbon",
+    "synonyms": [
+      "Gibbon"
+    ]
+  },
+  {
+    "value": "Ground sloth",
+    "synonyms": [
+      "Ground sloth"
+    ]
+  },
+  {
+    "value": "list",
+    "synonyms": [
+      "list"
+    ]
+  },
+  {
+    "value": "Hummingbird",
+    "synonyms": [
+      "Hummingbird"
+    ]
+  },
+  {
+    "value": "Koi",
+    "synonyms": [
+      "Koi"
+    ]
+  },
+  {
+    "value": "Lion",
+    "synonyms": [
+      "Lion"
+    ]
+  },
+  {
+    "value": "Newt",
+    "synonyms": [
+      "Newt"
+    ]
+  },
+  {
+    "value": "Otter",
+    "synonyms": [
+      "Otter"
+    ]
+  },
+  {
+    "value": "Panther",
+    "synonyms": [
+      "Panther"
+    ]
+  },
+  {
+    "value": "Parakeet",
+    "synonyms": [
+      "Parakeet"
+    ]
+  },
+  {
+    "value": "Bird",
+    "synonyms": [
+      "Bird"
+    ]
+  },
+  {
+    "value": "Butterfly",
+    "synonyms": [
+      "Butterfly"
+    ]
+  },
+  {
+    "value": "Bonobo",
+    "synonyms": [
+      "Bonobo"
+    ]
+  },
+  {
+    "value": "Capybara",
+    "synonyms": [
+      "Capybara"
+    ]
+  },
+  {
+    "value": "Blue jay",
+    "synonyms": [
+      "Blue jay"
+    ]
+  },
+  {
+    "value": "Catshark",
+    "synonyms": [
+      "Catshark"
+    ]
+  },
+  {
+    "value": "Chameleon",
+    "synonyms": [
+      "Chameleon"
+    ]
+  },
+  {
+    "value": "Crane fly",
+    "synonyms": [
+      "Crane fly"
+    ]
+  },
+  {
+    "value": "Cicada",
+    "synonyms": [
+      "Cicada"
+    ]
+  },
+  {
+    "value": "Gamefowl",
+    "synonyms": [
+      "Gamefowl"
+    ]
+  },
+  {
+    "value": "Goldfish",
+    "synonyms": [
+      "Goldfish"
+    ]
+  },
+  {
+    "value": "Goose",
+    "synonyms": [
+      "Goose"
+    ]
+  },
+  {
+    "value": "Guinea pig",
+    "synonyms": [
+      "Guinea pig"
+    ]
+  },
+  {
+    "value": "Harrier",
+    "synonyms": [
+      "Harrier"
+    ]
+  },
+  {
+    "value": "Junglefowl",
+    "synonyms": [
+      "Junglefowl"
+    ]
+  },
+  {
+    "value": "Moose",
+    "synonyms": [
+      "Moose"
+    ]
+  },
+  {
+    "value": "Muskox",
+    "synonyms": [
+      "Muskox"
+    ]
+  },
+  {
+    "value": "Peafowl",
+    "synonyms": [
+      "Peafowl"
+    ]
+  },
+  {
+    "value": "Crane",
+    "synonyms": [
+      "Crane"
+    ]
+  },
+  {
+    "value": "Crayfish",
+    "synonyms": [
+      "Crayfish"
+    ]
+  },
+  {
+    "value": "Eagle",
+    "synonyms": [
+      "Eagle"
+    ]
+  },
+  {
+    "value": "Fox",
+    "synonyms": [
+      "Fox"
+    ]
+  },
+  {
+    "value": "Hippopotamus",
+    "synonyms": [
+      "Hippopotamus"
+    ]
+  },
+  {
+    "value": "Kiwi",
+    "synonyms": [
+      "Kiwi"
+    ]
+  },
+  {
+    "value": "Lynx",
+    "synonyms": [
+      "Lynx"
+    ]
+  },
+  {
+    "value": "Marmot",
+    "synonyms": [
+      "Marmot"
+    ]
+  },
+  {
+    "value": "Mastodon",
+    "synonyms": [
+      "Mastodon"
+    ]
+  },
+  {
+    "value": "Owl",
+    "synonyms": [
+      "Owl"
+    ]
+  },
+  {
+    "value": "Panthera hybrid",
+    "synonyms": [
+      "Panthera hybrid"
+    ]
+  },
+  {
+    "value": "Bobolink",
+    "synonyms": [
+      "Bobolink"
+    ]
+  },
+  {
+    "value": "Gorilla",
+    "synonyms": [
+      "Gorilla"
+    ]
+  },
+  {
+    "value": "Hammerhead shark",
+    "synonyms": [
+      "Hammerhead shark"
+    ]
+  },
+  {
+    "value": "list",
+    "synonyms": [
+      "list"
+    ]
+  },
+  {
+    "value": "Leopon",
+    "synonyms": [
+      "Leopon"
+    ]
+  },
+  {
+    "value": "Mongoose",
+    "synonyms": [
+      "Mongoose"
+    ]
+  },
+  {
+    "value": "Buffalo bison",
+    "synonyms": [
+      "Buffalo bison"
+    ]
+  },
+  {
+    "value": "Crawdad",
+    "synonyms": [
+      "Crawdad"
+    ]
+  },
+  {
+    "value": "Duck",
+    "synonyms": [
+      "Duck"
+    ]
+  },
+  {
+    "value": "Elephant",
+    "synonyms": [
+      "Elephant"
+    ]
+  },
+  {
+    "value": "list",
+    "synonyms": [
+      "list"
+    ]
+  },
+  {
+    "value": "list",
+    "synonyms": [
+      "list"
+    ]
+  },
+  {
+    "value": "Guan",
+    "synonyms": [
+      "Guan"
+    ]
+  },
+  {
+    "value": "Hawk",
+    "synonyms": [
+      "Hawk"
+    ]
+  },
+  {
+    "value": "Jackal",
+    "synonyms": [
+      "Jackal"
+    ]
+  },
+  {
+    "value": "Kangaroo",
+    "synonyms": [
+      "Kangaroo"
+    ]
+  },
+  {
+    "value": "Kingfisher",
+    "synonyms": [
+      "Kingfisher"
+    ]
+  },
+  {
+    "value": "Lobster",
+    "synonyms": [
+      "Lobster"
+    ]
+  },
+  {
+    "value": "Mammal",
+    "synonyms": [
+      "Mammal"
+    ]
+  },
+  {
+    "value": "Orca",
+    "synonyms": [
+      "Orca"
+    ]
+  },
+  {
+    "value": "Centipede",
+    "synonyms": [
+      "Centipede"
+    ]
+  },
+  {
+    "value": "Chinchilla",
+    "synonyms": [
+      "Chinchilla"
+    ]
+  },
+  {
+    "value": "Condor",
+    "synonyms": [
+      "Condor"
+    ]
+  },
+  {
+    "value": "Coyote",
+    "synonyms": [
+      "Coyote"
+    ]
+  },
+  {
+    "value": "Crab",
+    "synonyms": [
+      "Crab"
+    ]
+  },
+  {
+    "value": "Cricket",
+    "synonyms": [
+      "Cricket"
+    ]
+  },
+  {
+    "value": "list",
+    "synonyms": [
+      "list"
+    ]
+  },
+  {
+    "value": "Earthworm",
+    "synonyms": [
+      "Earthworm"
+    ]
+  },
+  {
+    "value": "Giraffe",
+    "synonyms": [
+      "Giraffe"
+    ]
+  },
+  {
+    "value": "Hamster",
+    "synonyms": [
+      "Hamster"
+    ]
+  },
+  {
+    "value": "Loon",
+    "synonyms": [
+      "Loon"
+    ]
+  },
+  {
+    "value": "Louse",
+    "synonyms": [
+      "Louse"
+    ]
+  },
+  {
+    "value": "Meadowlark",
+    "synonyms": [
+      "Meadowlark"
+    ]
+  },
+  {
+    "value": "Ocelot",
+    "synonyms": [
+      "Ocelot"
+    ]
+  },
+  {
+    "value": "Opossum",
+    "synonyms": [
+      "Opossum"
+    ]
+  },
+  {
+    "value": "Orangutan",
+    "synonyms": [
+      "Orangutan"
+    ]
+  },
+  {
+    "value": "Cardinal",
+    "synonyms": [
+      "Cardinal"
+    ]
+  },
+  {
+    "value": "Cow",
+    "synonyms": [
+      "Cow"
+    ]
+  },
+  {
+    "value": "Flyingfish",
+    "synonyms": [
+      "Flyingfish"
+    ]
+  },
+  {
+    "value": "Fruit bat",
+    "synonyms": [
+      "Fruit bat"
+    ]
+  },
+  {
+    "value": "list",
+    "synonyms": [
+      "list"
+    ]
+  },
+  {
+    "value": "list",
+    "synonyms": [
+      "list"
+    ]
+  },
+  {
+    "value": "Hyena",
+    "synonyms": [
+      "Hyena"
+    ]
+  },
+  {
+    "value": "Komodo dragon",
+    "synonyms": [
+      "Komodo dragon"
+    ]
+  },
+  {
+    "value": "Landfowl",
+    "synonyms": [
+      "Landfowl"
+    ]
+  },
+  {
+    "value": "Land snail",
+    "synonyms": [
+      "Land snail"
+    ]
+  },
+  {
+    "value": "Manta ray",
+    "synonyms": [
+      "Manta ray"
+    ]
+  },
+  {
+    "value": "Parrot",
+    "synonyms": [
+      "Parrot"
+    ]
+  },
+  {
+    "value": "Partridge",
+    "synonyms": [
+      "Partridge"
+    ]
+  },
+  {
+    "value": "Pelican",
+    "synonyms": [
+      "Pelican"
+    ]
+  },
+  {
+    "value": "Buzzard",
+    "synonyms": [
+      "Buzzard"
+    ]
+  },
+  {
+    "value": "Cattle",
+    "synonyms": [
+      "Cattle"
+    ]
+  },
+  {
+    "value": "Chicken",
+    "synonyms": [
+      "Chicken"
+    ]
+  },
+  {
+    "value": "Cobra",
+    "synonyms": [
+      "Cobra"
+    ]
+  },
+  {
+    "value": "Dormouse",
+    "synonyms": [
+      "Dormouse"
+    ]
+  },
+  {
+    "value": "Ermine",
+    "synonyms": [
+      "Ermine"
+    ]
+  },
+  {
+    "value": "Gopher",
+    "synonyms": [
+      "Gopher"
+    ]
+  },
+  {
+    "value": "Grouse",
+    "synonyms": [
+      "Grouse"
+    ]
+  },
+  {
+    "value": "Jaguar",
+    "synonyms": [
+      "Jaguar"
+    ]
+  },
+  {
+    "value": "Krill",
+    "synonyms": [
+      "Krill"
+    ]
+  },
+  {
+    "value": "Lemur",
+    "synonyms": [
+      "Lemur"
+    ]
+  },
+  {
+    "value": "Minnow",
+    "synonyms": [
+      "Minnow"
+    ]
+  },
+  {
+    "value": "Ostrich",
+    "synonyms": [
+      "Ostrich"
+    ]
+  },
+  {
+    "value": "Panda",
+    "synonyms": [
+      "Panda"
+    ]
+  },
+  {
+    "value": "Peacock",
+    "synonyms": [
+      "Peacock"
+    ]
+  },
+  {
+    "value": "Bison",
+    "synonyms": [
+      "Bison"
+    ]
+  },
+  {
+    "value": "Cat",
+    "synonyms": [
+      "Cat"
+    ]
+  },
+  {
+    "value": "Damselfly",
+    "synonyms": [
+      "Damselfly"
+    ]
+  },
+  {
+    "value": "Dinosaur",
+    "synonyms": [
+      "Dinosaur"
+    ]
+  },
+  {
+    "value": "Dung beetle",
+    "synonyms": [
+      "Dung beetle"
+    ]
+  },
+  {
+    "value": "Galliform",
+    "synonyms": [
+      "Galliform"
+    ]
+  },
+  {
+    "value": "Grasshopper",
+    "synonyms": [
+      "Grasshopper"
+    ]
+  },
+  {
+    "value": "Great white shark",
+    "synonyms": [
+      "Great white shark"
+    ]
+  },
+  {
+    "value": "Ground shark",
+    "synonyms": [
+      "Ground shark"
+    ]
+  },
+  {
+    "value": "Hoverfly",
+    "synonyms": [
+      "Hoverfly"
+    ]
+  },
+  {
+    "value": "Irukandji jellyfish",
+    "synonyms": [
+      "Irukandji jellyfish"
+    ]
+  },
+  {
+    "value": "Koala",
+    "synonyms": [
+      "Koala"
+    ]
+  },
+  {
+    "value": "Marmoset",
+    "synonyms": [
+      "Marmoset"
+    ]
+  },
+  {
+    "value": "Marsupial",
+    "synonyms": [
+      "Marsupial"
+    ]
+  },
+  {
+    "value": "Mollusk",
+    "synonyms": [
+      "Mollusk"
+    ]
+  },
+  {
+    "value": "Nightingale",
+    "synonyms": [
+      "Nightingale"
+    ]
+  },
+  {
+    "value": "Parrotfish",
+    "synonyms": [
+      "Parrotfish"
+    ]
+  },
+  {
+    "value": "list",
+    "synonyms": [
+      "list"
+    ]
+  },
+  {
+    "value": "Finch",
+    "synonyms": [
+      "Finch"
+    ]
+  },
+  {
+    "value": "Flamingo",
+    "synonyms": [
+      "Flamingo"
+    ]
+  },
+  {
+    "value": "Hedgehog",
+    "synonyms": [
+      "Hedgehog"
+    ]
+  },
+  {
+    "value": "Herring",
+    "synonyms": [
+      "Herring"
+    ]
+  },
+  {
+    "value": "Humpback whale",
+    "synonyms": [
+      "Humpback whale"
+    ]
+  },
+  {
+    "value": "Jay",
+    "synonyms": [
+      "Jay"
+    ]
+  },
+  {
+    "value": "Kite",
+    "synonyms": [
+      "Kite"
+    ]
+  },
+  {
+    "value": "Magpie",
+    "synonyms": [
+      "Magpie"
+    ]
+  },
+  {
+    "value": "Mole",
+    "synonyms": [
+      "Mole"
+    ]
+  },
+  {
+    "value": "Booby",
+    "synonyms": [
+      "Booby"
+    ]
+  },
+  {
+    "value": "Coral",
+    "synonyms": [
+      "Coral"
+    ]
+  },
+  {
+    "value": "Dingo",
+    "synonyms": [
+      "Dingo"
+    ]
+  },
+  {
+    "value": "Emu",
+    "synonyms": [
+      "Emu"
+    ]
+  },
+  {
+    "value": "Hookworm",
+    "synonyms": [
+      "Hookworm"
+    ]
+  },
+  {
+    "value": "Impala",
+    "synonyms": [
+      "Impala"
+    ]
+  },
+  {
+    "value": "Kangaroo mouse",
+    "synonyms": [
+      "Kangaroo mouse"
+    ]
+  },
+  {
+    "value": "Leech",
+    "synonyms": [
+      "Leech"
+    ]
+  },
+  {
+    "value": "Lungfish",
+    "synonyms": [
+      "Lungfish"
+    ]
+  },
+  {
+    "value": "Monkey",
+    "synonyms": [
+      "Monkey"
+    ]
+  },
+  {
+    "value": "Mountain goat",
+    "synonyms": [
+      "Mountain goat"
+    ]
+  },
+  {
+    "value": "New World quail",
+    "synonyms": [
+      "New World quail"
+    ]
+  },
+  {
+    "value": "Ox",
+    "synonyms": [
+      "Ox"
+    ]
+  },
+  {
+    "value": "Pigeon",
+    "synonyms": [
+      "Pigeon"
+    ]
+  },
+  {
+    "value": "Rhinoceros",
+    "synonyms": [
+      "Rhinoceros"
+    ]
+  },
+  {
+    "value": "Pony",
+    "synonyms": [
+      "Pony"
+    ]
+  },
+  {
+    "value": "list",
+    "synonyms": [
+      "list"
+    ]
+  },
+  {
+    "value": "Pilot whale",
+    "synonyms": [
+      "Pilot whale"
+    ]
+  },
+  {
+    "value": "Pig",
+    "synonyms": [
+      "Pig"
+    ]
+  },
+  {
+    "value": "Porpoise",
+    "synonyms": [
+      "Porpoise"
+    ]
+  },
+  {
+    "value": "Prawn",
+    "synonyms": [
+      "Prawn"
+    ]
+  },
+  {
+    "value": "Reptile",
+    "synonyms": [
+      "Reptile"
+    ]
+  },
+  {
+    "value": "Right whale",
+    "synonyms": [
+      "Right whale"
+    ]
+  },
+  {
+    "value": "Salamander",
+    "synonyms": [
+      "Salamander"
+    ]
+  },
+  {
+    "value": "Sawfish",
+    "synonyms": [
+      "Sawfish"
+    ]
+  },
+  {
+    "value": "Scallop",
+    "synonyms": [
+      "Scallop"
+    ]
+  },
+  {
+    "value": "Sheep",
+    "synonyms": [
+      "Sheep"
+    ]
+  },
+  {
+    "value": "Silkworm",
+    "synonyms": [
+      "Silkworm"
+    ]
+  },
+  {
+    "value": "Star-nosed mole",
+    "synonyms": [
+      "Star-nosed mole"
+    ]
+  },
+  {
+    "value": "Trout",
+    "synonyms": [
+      "Trout"
+    ]
+  },
+  {
+    "value": "Urial",
+    "synonyms": [
+      "Urial"
+    ]
+  },
+  {
+    "value": "Roadrunner",
+    "synonyms": [
+      "Roadrunner"
+    ]
+  },
+  {
+    "value": "Sailfish",
+    "synonyms": [
+      "Sailfish"
+    ]
+  },
+  {
+    "value": "Snipe",
+    "synonyms": [
+      "Snipe"
+    ]
+  },
+  {
+    "value": "Spider",
+    "synonyms": [
+      "Spider"
+    ]
+  },
+  {
+    "value": "Tick",
+    "synonyms": [
+      "Tick"
+    ]
+  },
+  {
+    "value": "Python",
+    "synonyms": [
+      "Python"
+    ]
+  },
+  {
+    "value": "Raven",
+    "synonyms": [
+      "Raven"
+    ]
+  },
+  {
+    "value": "Red panda",
+    "synonyms": [
+      "Red panda"
+    ]
+  },
+  {
+    "value": "Saber-toothed cat",
+    "synonyms": [
+      "Saber-toothed cat"
+    ]
+  },
+  {
+    "value": "Tarantula",
+    "synonyms": [
+      "Tarantula"
+    ]
+  },
+  {
+    "value": "Termite",
+    "synonyms": [
+      "Termite"
+    ]
+  },
+  {
+    "value": "Turtle",
+    "synonyms": [
+      "Turtle"
+    ]
+  },
+  {
+    "value": "Praying mantis",
+    "synonyms": [
+      "Praying mantis"
+    ]
+  },
+  {
+    "value": "Rabbit",
+    "synonyms": [
+      "Rabbit"
+    ]
+  },
+  {
+    "value": "Raccoon",
+    "synonyms": [
+      "Raccoon"
+    ]
+  },
+  {
+    "value": "Rooster",
+    "synonyms": [
+      "Rooster"
+    ]
+  },
+  {
+    "value": "Shark",
+    "synonyms": [
+      "Shark"
+    ]
+  },
+  {
+    "value": "Silverfish",
+    "synonyms": [
+      "Silverfish"
+    ]
+  },
+  {
+    "value": "Snail",
+    "synonyms": [
+      "Snail"
+    ]
+  },
+  {
+    "value": "Stingray",
+    "synonyms": [
+      "Stingray"
+    ]
+  },
+  {
+    "value": "Sturgeon",
+    "synonyms": [
+      "Sturgeon"
+    ]
+  },
+  {
+    "value": "Tyrannosaurus",
+    "synonyms": [
+      "Tyrannosaurus"
+    ]
+  },
+  {
+    "value": "Vampire bat",
+    "synonyms": [
+      "Vampire bat"
+    ]
+  },
+  {
+    "value": "Planarian",
+    "synonyms": [
+      "Planarian"
+    ]
+  },
+  {
+    "value": "Ray",
+    "synonyms": [
+      "Ray"
+    ]
+  },
+  {
+    "value": "Skink",
+    "synonyms": [
+      "Skink"
+    ]
+  },
+  {
+    "value": "Skunk",
+    "synonyms": [
+      "Skunk"
+    ]
+  },
+  {
+    "value": "Steelhead trout",
+    "synonyms": [
+      "Steelhead trout"
+    ]
+  },
+  {
+    "value": "Tiger shark",
+    "synonyms": [
+      "Tiger shark"
+    ]
+  },
+  {
+    "value": "Rook",
+    "synonyms": [
+      "Rook"
+    ]
+  },
+  {
+    "value": "Sea lion",
+    "synonyms": [
+      "Sea lion"
+    ]
+  },
+  {
+    "value": "Snow leopard",
+    "synonyms": [
+      "Snow leopard"
+    ]
+  },
+  {
+    "value": "Spoonbill",
+    "synonyms": [
+      "Spoonbill"
+    ]
+  },
+  {
+    "value": "Sugar glider",
+    "synonyms": [
+      "Sugar glider"
+    ]
+  },
+  {
+    "value": "Tortoise",
+    "synonyms": [
+      "Tortoise"
+    ]
+  },
+  {
+    "value": "Tree frog",
+    "synonyms": [
+      "Tree frog"
+    ]
+  },
+  {
+    "value": "Turkey",
+    "synonyms": [
+      "Turkey"
+    ]
+  },
+  {
+    "value": "Portuguese man o\u0027 war",
+    "synonyms": [
+      "Portuguese man o\u0027 war"
+    ]
+  },
+  {
+    "value": "Quail",
+    "synonyms": [
+      "Quail"
+    ]
+  },
+  {
+    "value": "Slug",
+    "synonyms": [
+      "Slug"
+    ]
+  },
+  {
+    "value": "Sole",
+    "synonyms": [
+      "Sole"
+    ]
+  },
+  {
+    "value": "Stork",
+    "synonyms": [
+      "Stork"
+    ]
+  },
+  {
+    "value": "Tarsier",
+    "synonyms": [
+      "Tarsier"
+    ]
+  },
+  {
+    "value": "Pike",
+    "synonyms": [
+      "Pike"
+    ]
+  },
+  {
+    "value": "Reindeer",
+    "synonyms": [
+      "Reindeer"
+    ]
+  },
+  {
+    "value": "Puma",
+    "synonyms": [
+      "Puma"
+    ]
+  },
+  {
+    "value": "Penguin",
+    "synonyms": [
+      "Penguin"
+    ]
+  },
+  {
+    "value": "Platypus",
+    "synonyms": [
+      "Platypus"
+    ]
+  },
+  {
+    "value": "Ptarmigan",
+    "synonyms": [
+      "Ptarmigan"
+    ]
+  },
+  {
+    "value": "Quelea",
+    "synonyms": [
+      "Quelea"
+    ]
+  },
+  {
+    "value": "Sea snail",
+    "synonyms": [
+      "Sea snail"
+    ]
+  },
+  {
+    "value": "Shrew",
+    "synonyms": [
+      "Shrew"
+    ]
+  },
+  {
+    "value": "Stoat",
+    "synonyms": [
+      "Stoat"
+    ]
+  },
+  {
+    "value": "Vicuna",
+    "synonyms": [
+      "Vicuna"
+    ]
+  },
+  {
+    "value": "Pheasant",
+    "synonyms": [
+      "Pheasant"
+    ]
+  },
+  {
+    "value": "Seahorse",
+    "synonyms": [
+      "Seahorse"
+    ]
+  },
+  {
+    "value": "Smelt",
+    "synonyms": [
+      "Smelt"
+    ]
+  },
+  {
+    "value": "Squid",
+    "synonyms": [
+      "Squid"
+    ]
+  },
+  {
+    "value": "Swift",
+    "synonyms": [
+      "Swift"
+    ]
+  },
+  {
+    "value": "Toucan",
+    "synonyms": [
+      "Toucan"
+    ]
+  },
+  {
+    "value": "Perch",
+    "synonyms": [
+      "Perch"
+    ]
+  },
+  {
+    "value": "Pinniped",
+    "synonyms": [
+      "Pinniped"
+    ]
+  },
+  {
+    "value": "Piranha",
+    "synonyms": [
+      "Piranha"
+    ]
+  },
+  {
+    "value": "Prairie dog",
+    "synonyms": [
+      "Prairie dog"
+    ]
+  },
+  {
+    "value": "Puffin",
+    "synonyms": [
+      "Puffin"
+    ]
+  },
+  {
+    "value": "Salmon",
+    "synonyms": [
+      "Salmon"
+    ]
+  },
+  {
+    "value": "Scorpion",
+    "synonyms": [
+      "Scorpion"
+    ]
+  },
+  {
+    "value": "Sockeye salmon",
+    "synonyms": [
+      "Sockeye salmon"
+    ]
+  },
+  {
+    "value": "Vampire squid",
+    "synonyms": [
+      "Vampire squid"
+    ]
+  },
+  {
+    "value": "Porcupine",
+    "synonyms": [
+      "Porcupine"
+    ]
+  },
+  {
+    "value": "Peregrine falcon",
+    "synonyms": [
+      "Peregrine falcon"
+    ]
+  },
+  {
+    "value": "Polar bear",
+    "synonyms": [
+      "Polar bear"
+    ]
+  },
+  {
+    "value": "Quokka",
+    "synonyms": [
+      "Quokka"
+    ]
+  },
+  {
+    "value": "Swallow",
+    "synonyms": [
+      "Swallow"
+    ]
+  },
+  {
+    "value": "Rat",
+    "synonyms": [
+      "Rat"
+    ]
+  },
+  {
+    "value": "Sloth",
+    "synonyms": [
+      "Sloth"
+    ]
+  },
+  {
+    "value": "Swordtail",
+    "synonyms": [
+      "Swordtail"
+    ]
+  },
+  {
+    "value": "Tiglon",
+    "synonyms": [
+      "Tiglon"
+    ]
+  },
+  {
+    "value": "Primate",
+    "synonyms": [
+      "Primate"
+    ]
+  },
+  {
+    "value": "Roundworm",
+    "synonyms": [
+      "Roundworm"
+    ]
+  },
+  {
+    "value": "Spider monkey",
+    "synonyms": [
+      "Spider monkey"
+    ]
+  },
+  {
+    "value": "Tasmanian devil",
+    "synonyms": [
+      "Tasmanian devil"
+    ]
+  },
+  {
+    "value": "list",
+    "synonyms": [
+      "list"
+    ]
+  },
+  {
+    "value": "Rainbow trout",
+    "synonyms": [
+      "Rainbow trout"
+    ]
+  },
+  {
+    "value": "list",
+    "synonyms": [
+      "list"
+    ]
+  },
+  {
+    "value": "Swan",
+    "synonyms": [
+      "Swan"
+    ]
+  },
+  {
+    "value": "Swordfish",
+    "synonyms": [
+      "Swordfish"
+    ]
+  },
+  {
+    "value": "Tapir",
+    "synonyms": [
+      "Tapir"
+    ]
+  },
+  {
+    "value": "Tiger",
+    "synonyms": [
+      "Tiger"
+    ]
+  },
+  {
+    "value": "Toad",
+    "synonyms": [
+      "Toad"
+    ]
+  },
+  {
+    "value": "Rodent",
+    "synonyms": [
+      "Rodent"
+    ]
+  },
+  {
+    "value": "Scale insect",
+    "synonyms": [
+      "Scale insect"
+    ]
+  },
+  {
+    "value": "Sea slug",
+    "synonyms": [
+      "Sea slug"
+    ]
+  },
+  {
+    "value": "list",
+    "synonyms": [
+      "list"
+    ]
+  },
+  {
+    "value": "Shrimp",
+    "synonyms": [
+      "Shrimp"
+    ]
+  },
+  {
+    "value": "Snake",
+    "synonyms": [
+      "Snake"
+    ]
+  },
+  {
+    "value": "list",
+    "synonyms": [
+      "list"
+    ]
+  },
+  {
+    "value": "Sparrow",
+    "synonyms": [
+      "Sparrow"
+    ]
+  },
+  {
+    "value": "Sperm whale",
+    "synonyms": [
+      "Sperm whale"
+    ]
+  },
+  {
+    "value": "Starfish",
+    "synonyms": [
+      "Starfish"
+    ]
+  },
+  {
+    "value": "Tahr",
+    "synonyms": [
+      "Tahr"
+    ]
+  },
+  {
+    "value": "Tern",
+    "synonyms": [
+      "Tern"
+    ]
+  },
+  {
+    "value": "Thrush",
+    "synonyms": [
+      "Thrush"
+    ]
+  },
+  {
+    "value": "Trapdoor spider",
+    "synonyms": [
+      "Trapdoor spider"
+    ]
+  },
+  {
+    "value": "Tuna",
+    "synonyms": [
+      "Tuna"
+    ]
+  },
+  {
+    "value": "Possum",
+    "synonyms": [
+      "Possum"
+    ]
+  },
+  {
+    "value": "Rattlesnake",
+    "synonyms": [
+      "Rattlesnake"
+    ]
+  },
+  {
+    "value": "Squirrel",
+    "synonyms": [
+      "Squirrel"
+    ]
+  },
+  {
+    "value": "Takin",
+    "synonyms": [
+      "Takin"
+    ]
+  },
+  {
+    "value": "list",
+    "synonyms": [
+      "list"
+    ]
+  },
+  {
+    "value": "Wildcat",
+    "synonyms": [
+      "Wildcat"
+    ]
+  },
+  {
+    "value": "Domestic guineafowl",
+    "synonyms": [
+      "Domestic guineafowl"
+    ]
+  },
+  {
+    "value": "Whooping crane",
+    "synonyms": [
+      "Whooping crane"
+    ]
+  },
+  {
+    "value": "Woodpecker",
+    "synonyms": [
+      "Woodpecker"
+    ]
+  },
+  {
+    "value": "Worm",
+    "synonyms": [
+      "Worm"
+    ]
+  },
+  {
+    "value": "Vole",
+    "synonyms": [
+      "Vole"
+    ]
+  },
+  {
+    "value": "Wombat",
+    "synonyms": [
+      "Wombat"
+    ]
+  },
+  {
+    "value": "Cat",
+    "synonyms": [
+      "Cat"
+    ]
+  },
+  {
+    "value": "Dog",
+    "synonyms": [
+      "Dog"
+    ]
+  },
+  {
+    "value": "Donkey",
+    "synonyms": [
+      "Donkey"
+    ]
+  },
+  {
+    "value": "Wasp",
+    "synonyms": [
+      "Wasp"
+    ]
+  },
+  {
+    "value": "Domestic hedgehog",
+    "synonyms": [
+      "Domestic hedgehog"
+    ]
+  },
+  {
+    "value": "Bali cattle",
+    "synonyms": [
+      "Bali cattle"
+    ]
+  },
+  {
+    "value": "Domestic turkey",
+    "synonyms": [
+      "Domestic turkey"
+    ]
+  },
+  {
+    "value": "Common names of poisonous animals",
+    "synonyms": [
+      "Common names of poisonous animals"
+    ]
+  },
+  {
+    "value": "Domestic duck",
+    "synonyms": [
+      "Domestic duck"
+    ]
+  },
+  {
+    "value": "Domestic pig",
+    "synonyms": [
+      "Domestic pig"
+    ]
+  },
+  {
+    "value": "Fancy mouse",
+    "synonyms": [
+      "Fancy mouse"
+    ]
+  },
+  {
+    "value": "Siamese fighting fish",
+    "synonyms": [
+      "Siamese fighting fish"
+    ]
+  },
+  {
+    "value": "Viper",
+    "synonyms": [
+      "Viper"
+    ]
+  },
+  {
+    "value": "Animals by number of neurons",
+    "synonyms": [
+      "Animals by number of neurons"
+    ]
+  },
+  {
+    "value": "Lab rat",
+    "synonyms": [
+      "Lab rat"
+    ]
+  },
+  {
+    "value": "Walrus",
+    "synonyms": [
+      "Walrus"
+    ]
+  },
+  {
+    "value": "Warbler",
+    "synonyms": [
+      "Warbler"
+    ]
+  },
+  {
+    "value": "Yellow perch",
+    "synonyms": [
+      "Yellow perch"
+    ]
+  },
+  {
+    "value": "Zebra finch",
+    "synonyms": [
+      "Zebra finch"
+    ]
+  },
+  {
+    "value": "Domestic canary",
+    "synonyms": [
+      "Domestic canary"
+    ]
+  },
+  {
+    "value": "Whippet",
+    "synonyms": [
+      "Whippet"
+    ]
+  },
+  {
+    "value": "Sheep",
+    "synonyms": [
+      "Sheep"
+    ]
+  },
+  {
+    "value": "Wren",
+    "synonyms": [
+      "Wren"
+    ]
+  },
+  {
+    "value": "Domestic goat",
+    "synonyms": [
+      "Domestic goat"
+    ]
+  },
+  {
+    "value": "Domestic rabbit",
+    "synonyms": [
+      "Domestic rabbit"
+    ]
+  },
+  {
+    "value": "Water buffalo",
+    "synonyms": [
+      "Water buffalo"
+    ]
+  },
+  {
+    "value": "Fancy rat",
+    "synonyms": [
+      "Fancy rat"
+    ]
+  },
+  {
+    "value": "Xerinae",
+    "synonyms": [
+      "Xerinae"
+    ]
+  },
+  {
+    "value": "Zebra",
+    "synonyms": [
+      "Zebra"
+    ]
+  },
+  {
+    "value": "Animals by size",
+    "synonyms": [
+      "Animals by size"
+    ]
+  },
+  {
+    "value": "Common household pests",
+    "synonyms": [
+      "Common household pests"
+    ]
+  },
+  {
+    "value": "Domestic dromedary camel",
+    "synonyms": [
+      "Domestic dromedary camel"
+    ]
+  },
+  {
+    "value": "Cattle",
+    "synonyms": [
+      "Cattle"
+    ]
+  },
+  {
+    "value": "Wallaby",
+    "synonyms": [
+      "Wallaby"
+    ]
+  },
+  {
+    "value": "Water buffalo",
+    "synonyms": [
+      "Water buffalo"
+    ]
+  },
+  {
+    "value": "Wildebeest",
+    "synonyms": [
+      "Wildebeest"
+    ]
+  },
+  {
+    "value": "X-ray fish",
+    "synonyms": [
+      "X-ray fish"
+    ]
+  },
+  {
+    "value": "Chicken",
+    "synonyms": [
+      "Chicken"
+    ]
+  },
+  {
+    "value": "Goldfish",
+    "synonyms": [
+      "Goldfish"
+    ]
+  },
+  {
+    "value": "Vulture",
+    "synonyms": [
+      "Vulture"
+    ]
+  },
+  {
+    "value": "Whitefish",
+    "synonyms": [
+      "Whitefish"
+    ]
+  },
+  {
+    "value": "Guppy",
+    "synonyms": [
+      "Guppy"
+    ]
+  },
+  {
+    "value": "Koi",
+    "synonyms": [
+      "Koi"
+    ]
+  },
+  {
+    "value": "Ringneck dove",
+    "synonyms": [
+      "Ringneck dove"
+    ]
+  },
+  {
+    "value": "Water Boa",
+    "synonyms": [
+      "Water Boa"
+    ]
+  },
+  {
+    "value": "Guinea pig",
+    "synonyms": [
+      "Guinea pig"
+    ]
+  },
+  {
+    "value": "Weasel",
+    "synonyms": [
+      "Weasel"
+    ]
+  },
+  {
+    "value": "Whale",
+    "synonyms": [
+      "Whale"
+    ]
+  },
+  {
+    "value": "Wildfowl",
+    "synonyms": [
+      "Wildfowl"
+    ]
+  },
+  {
+    "value": "Wolf",
+    "synonyms": [
+      "Wolf"
+    ]
+  },
+  {
+    "value": "Alpaca",
+    "synonyms": [
+      "Alpaca"
+    ]
+  },
+  {
+    "value": "Domestic Bactrian camel",
+    "synonyms": [
+      "Domestic Bactrian camel"
+    ]
+  },
+  {
+    "value": "Domestic goose",
+    "synonyms": [
+      "Domestic goose"
+    ]
+  },
+  {
+    "value": "Domestic silver fox",
+    "synonyms": [
+      "Domestic silver fox"
+    ]
+  },
+  {
+    "value": "Ferret",
+    "synonyms": [
+      "Ferret"
+    ]
+  },
+  {
+    "value": "Llama",
+    "synonyms": [
+      "Llama"
+    ]
+  },
+  {
+    "value": "Yak",
+    "synonyms": [
+      "Yak"
+    ]
+  },
+  {
+    "value": "Domestic pigeon",
+    "synonyms": [
+      "Domestic pigeon"
+    ]
+  },
+  {
+    "value": "Gayal",
+    "synonyms": [
+      "Gayal"
+    ]
+  },
+  {
+    "value": "Wolverine",
+    "synonyms": [
+      "Wolverine"
+    ]
+  },
+  {
+    "value": "Yak",
+    "synonyms": [
+      "Yak"
+    ]
+  },
+  {
+    "value": "Domestic silkmoth",
+    "synonyms": [
+      "Domestic silkmoth"
+    ]
+  },
+  {
+    "value": "Horse",
+    "synonyms": [
+      "Horse"
+    ]
+  },
+  {
+    "value": "Society finch",
+    "synonyms": [
+      "Society finch"
+    ]
+  }
+]
